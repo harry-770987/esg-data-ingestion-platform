@@ -13,7 +13,7 @@ const api = axios.create({
 
 // Request Interceptor to inject active X-Tenant-ID header
 api.interceptors.request.use((config) => {
-  const activeTenantId = localStorage.getItem('activeTenantId') || '00000000-0000-0000-0000-000000000000'; // dummy UUID fallback
+  const activeTenantId = localStorage.getItem('activeTenantId') || '11111111-1111-1111-1111-111111111111'; // seeded Alpha tenant UUID fallback
   config.headers['X-Tenant-ID'] = activeTenantId;
   return config;
 }, (error) => {
