@@ -1,0 +1,6 @@
+BookingID,EmployeeID,travel_date,Departure,Arrival,distance,distance_unit,transport_type
+BK-3301,EMP-882,2026-05-15,SFO,JFK,2586.00,miles,Flight
+BK-3302,EMP-104,2026-05-18,LHR,CDG,348.00,km,Train
+BK-3303,EMP-105,2026-05-19,LHR,CDG,20.00,yards,Taxi
+BK-3304,EMP-106,2026-05-20,LHR,CDG,5.00,km,
+BK-3305,EMP-107,2026-05-21,SFO,JFK,98000.00,miles,Flight

@@ -1,0 +1,7 @@
+InvoiceNo,postingdate,Vendor,fueltype,qty,unit,Cost
+INV-990812,2026-05-01,FuelCorp,Diesel,120.00,gallons,450.00
+INV-990813,05/12/2026,QuickGas,Petrol,500.00,liters,900.00
+INV-990814,14-05-2026,QuickGas,Petrol,150.00,L,250.00
+INV-990815,,FuelCorp,Diesel,100.00,gallons,380.00
+INV-990816,2026-05-18,FuelCorp,Diesel,999999.00,gallons,3800000.00
+INV-990817,2026-05-19,QuickGas,Petrol,-50.00,liters,-90.00
